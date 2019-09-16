@@ -1,4 +1,5 @@
 # JARAM Deep Learning & Machine Learning
+Jaram 2019-1 Study
 
 ## MEMBER
 * [이하영](https://github.com/hy-kiera)
